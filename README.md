@@ -7,4 +7,7 @@ Codes for modelling
 
 ### Episódio 02 - Instalacao Mac
 
+### Episódio 03 - Instalacao Linux
+
+
 ## Aula 02
