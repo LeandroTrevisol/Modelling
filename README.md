@@ -5,6 +5,6 @@ Codes for modelling
 
 ### Episódio 01 - Instalacao Windows
 
-### Episódio 02
+### Episódio 02 - Instalacao Mac
 
 ## Aula 02
